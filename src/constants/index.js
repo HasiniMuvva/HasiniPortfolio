@@ -6,17 +6,10 @@ import project5 from "../assets/projects/project-5.jpg";
 import project6 from "../assets/projects/project-6.jpg";
 import project7 from "../assets/projects/project-7.jpg";
 
-export const HERO_CONTENT = `A dedicated and versatile full stack developer with a passion for creating efficient and user-friendly web applications. With a strong background in both front-end and back-end development,
- I excel in using modern technologies and frameworks to build scalable and maintainable applications.
-  Proficient in languages such as JavaScript, Python, and Java, and experienced with tools like 
-  React, Next.js, Node.js, MySQL, PostgreSQL, MongoDB, REST APIs, and Spring, 
-  I consistently deliver high-quality code and bring a keen eye for detail to every project.
-   My ability to quickly adapt to new technologies, combined with a problem-solving mindset, 
-   makes me an invaluable asset to any development team. Committed to continuous learning, 
-   I thrive in collaborative environments, always ready to tackle new challenges and 
-   contribute to the success of the team and projects. When not coding, you’ll find me either annoying my pet dog, Jakku, or immersed in a fantasy adventure movie. or exploring new technologies`
+export const HERO_CONTENT = `I’m a dedicated full stack developer who loves creating efficient and user-friendly web applications. With experience in agile methodologies and proficiency in Java, Python, JavaScript. I excel in both front-end and back-end development. I'm eager to take on new challenges in full stack, back-end, front-end, or cloud roles, always ready to learn and contribute to the team's success. When not coding, you’ll find me either annoying my pet dog, Jakku or immersed in a fantasy adventure movie, or exploring new technologies.
+`
 
-export const ABOUT_TEXT = `I am currently pursuing a master’s in Software Engineering Systems at Northeastern University. As an avid coder with a talent for solving challenges and crafting creative solutions, I focus on developing intuitive full-stack applications that adapt based on user metrics. I have hands-on experience with implementing RESTful APIs using Node.js and deploying them on Google Cloud Platform (GCP). Previously, as a Test Automation Engineer at Accenture, I designed and automated test cases to ensure comprehensive coverage of software functionalities. I prepared clear documentation, explained test scenarios to clients, conducted performance testing with over 100 virtual users, and generated detailed reports to drive effective issue resolution and continuous software improvement.`
+export const ABOUT_TEXT = `I am currently pursuing a master’s in Software Engineering Systems at Northeastern University. As an avid coder with a knack for solving challenges and crafting creative solutions, I have worked with various technologies such as React, Node.js, Next.js, Spring, MongoDB, MySQL, and PostgreSQL. I have hands-on experience implementing RESTful APIs using Node.js and deploying them on Google Cloud Platform (GCP). Previously, as a Test Automation Engineer at Accenture, I designed and automated test cases to ensure comprehensive coverage of software functionalities. I prepared clear documentation, explained test scenarios to clients, conducted performance testing with over 100 virtual users, and generated detailed reports to drive effective issue resolution and continuous software improvement.I consistently deliver high-quality code and bring a keen eye for detail to every project. With a strong commitment to continuous learning and a passion for technology, I am eager to tackle new challenges and contribute to the success of innovative projects.`
 
 export const EXPERIENCES = [
   {

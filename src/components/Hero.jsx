@@ -1,5 +1,5 @@
 import { HERO_CONTENT } from "../constants/index";
-import profilePic from "../assets/HMPIC.png";
+import profilePic from "../assets/HMPIC.jpeg";
 import {motion} from "framer-motion";
 const container = (delay) => ({
   hidden: { x: -100, opacity: 0 },
@@ -31,7 +31,7 @@ const Hero = () => {
             <motion.p variants={container(1)}
               initial= "hidden"
               animate= "visible"
-              className="my-2 max-w-xl py-6 font-light tracking-tighter">
+              className="my-2 max-w-xl py-6 font-light tracking-tighter text-justify">
               {HERO_CONTENT}
             </motion.p>
           </div>
