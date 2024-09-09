@@ -44,7 +44,7 @@ export const PROJECTS = [
     description:
       "Implemented secure RESTful APIs with Node.js and Sequelize ORM in a microservices architecture, integrating user management, CRUD operations, and automated email verification. Utilized serverless computing and Pub/Sub for scalability. Managed GCP infrastructure with Terraform, designed custom compute engine images, implemented encryption and SSL certificates, and facilitated seamless updates through continuous deployment and rolling updates.",
     technologies: ["Node.js", "Sequelize ORM","MicroServices", "Pub/Sub", "Terraform", "GCP","Basic Auth Authentication", "SSL Certificates", "CI/CD", "Linux", "Bash"],
-    link: "https://example.com/cloud-native-webapp" // Add the link here
+    link: "https://github.com/CloudCourseSpring2024/webapp" // Add the link here
   },
   {
     title: "Library Management System",
